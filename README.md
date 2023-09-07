@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sagar Wagdare</h1>
 <h3 align="center">A passionate Software developer Engineer (SDE) from India</h3>
 
-<p align="left"> <text x="96" y="15" fill="#010101" fill-opacity=".3">1.1k</text> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sagarwagdare&label=Profile%20views&color=0e75b6&style=flat" alt="sagarwagdare" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sagarwagdare" alt="sagarwagdare" /></a> </p>
 
