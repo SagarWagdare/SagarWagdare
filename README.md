@@ -1,27 +1,8 @@
 <h1 align="center">Hi 👋, I'm Sagar Wagdare</h1>
 <h3 align="center">A passionate Software developer Engineer (SDE) from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sagarwagdare&label=Profile%20views&color=0e75b6&style=flat" alt="sagarwagdare" /> </p>
-<svg xmlns="http://www.w3.org/2000/svg" width="113" height="20">
-    <linearGradient id="b" x2="0" y2="100%">
-        <stop offset="0" stop-color="#bbb" stop-opacity=".1"/>
-        <stop offset="1" stop-opacity=".1"/>
-    </linearGradient>
-    <mask id="a">
-        <rect width="113" height="20" rx="3" fill="#fff"/>
-    </mask>
-    <g mask="url(#a)">
-        <rect width="81" height="20" fill="#555"/>
-        <rect x="81" width="32" height="20" fill="#0e75b6"/>
-        <rect width="113" height="20" fill="url(#b)"/>
-    </g>
-    <g fill="#fff" text-anchor="middle" font-family="DejaVu Sans,Verdana,Geneva,sans-serif" font-size="11">
-        <text x="41.5" y="15" fill="#010101" fill-opacity=".3">Profile views</text>
-        <text x="41.5" y="14">Profile views</text>
-        <text x="96" y="15" fill="#010101" fill-opacity=".3">1.1k</text>
-        <text x="96" y="14">113</text>
-    </g>
-</svg>
+<p align="left"> <text x="96" y="15" fill="#010101" fill-opacity=".3">1.1k</text> </p>
+
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sagarwagdare" alt="sagarwagdare" /></a> </p>
 
 - 🔭 I’m currently working with [Appsdeployer Startup](https://task.appsdeployer.com/)
