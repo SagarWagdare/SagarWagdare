@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working with [Appsdeployer Startup] https://www.appsdeployer.com
 
-- 🌱 I’m currently learning **NextJs, NodeJs, ExpressJs ,MongoDB**
+- 🌱 I’m currently learning **Typescript ,NextJs, NodeJs, ExpressJs ,MongoDB**
 
 - 💬 Ask me about **react, frontend development**
 
