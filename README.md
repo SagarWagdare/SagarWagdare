@@ -7,8 +7,6 @@
 
 
 
-- 🌱 I’m currently learning **Typescript ,NextJs, NodeJs, ExpressJs ,MongoDB**
-
 - 💬 Ask me about **react, frontend development**
 
 - 📫 How to reach me **sagarwagdare2001@gmail.com**
