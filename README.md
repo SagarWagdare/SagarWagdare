@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **sagarwagdare2001@gmail.com**
 
-- 📄 Know about my experiences [[https://drive.google.com/file/d/1HEPb5VWEagQ_WMzWrrVT73KZ5__tOnNC/view](https://drive.google.com/file/d/1HEPb5VWEagQ_WMzWrrVT73KZ5__tOnNC/view](https://drive.google.com/file/d/1H5prLLxzvbq3_b-BIyunFzdx-FbpWfAv/view))
+- 📄 Know about my experiences https://drive.google.com/file/d/1H5prLLxzvbq3_b-BIyunFzdx-FbpWfAv/view?usp=sharing
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
