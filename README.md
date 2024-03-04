@@ -1,14 +1,14 @@
 <div style="background-color: #f5f5f5; padding: 20px;">
-  https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white
+  [https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white]
 <h1 align="center" style="color: #333;">Hello 👋, I'm Sagar Wagdare</h1>
 <h3 align="center" style="color: #555;">A passionate Software Development Engineer (SDE) from India</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sagarwagdare&label=Profile%20views&color=213a87&bgColor=#111111&style=flat" alt="sagarwagdare" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sagarwagdare" alt="sagarwagdare" /></a> </p>
 
-- 💬 Ask me about **MERN Stack Web Development** https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
+- 💬 Ask me about **MERN Stack Web Development** [https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB]
 
-- 📫 How to reach me https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white **sagarwagdare2001@gmail.com**
+- 📫 How to reach me [https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white] **sagarwagdare2001@gmail.com**
 - 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1iWigV-63UBkVT7sdDyCp1eluGvOanJfV/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
