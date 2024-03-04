@@ -1,8 +1,6 @@
 <div style="background-color: #f5f5f5; padding: 20px;">
 <h1 align="center" style="color: #333;">Hello 👋, I'm Sagar Wagdare</h1>
 <h3 align="center" style="color: #555;">A passionate Software Development Engineer (SDE) from India</h3>
-## 😂 Here is a random joke that'll make you laugh!
-![Jokes Card](https://readme-jokes.vercel.app/api)
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sagarwagdare&label=Profile%20views&color=213a87&bgColor=#111111&style=flat" alt="sagarwagdare" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sagarwagdare" alt="sagarwagdare" /></a> </p>
@@ -10,7 +8,7 @@
 - 💬 Ask me about **MERN Stack Web Development**
 
 - 📫 How to reach me **sagarwagdare2001@gmail.com**
-
+![GitHub Contributors Image](https://contrib.rocks/image?repo=sagarwagdare/SagarWagdare)
 - 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1iWigV-63UBkVT7sdDyCp1eluGvOanJfV/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
