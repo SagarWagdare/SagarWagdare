@@ -1,5 +1,5 @@
 <div style="background-color: #f5f5f5; padding: 20px;">
-<h1 align="center" style="color: #333;">Hello 👋, I'm Sagar Wagdare</h1>
+<h1 align="center" style="color: #333;">Hello I am Sagar Wagdare</h1>
 <h3 align="center" style="color: #555;">A passionate Software Development Engineer (SDE) from India</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sagarwagdare&label=Profile%20views&color=213a87&bgColor=#111111&style=flat" alt="sagarwagdare" /> </p>
 
