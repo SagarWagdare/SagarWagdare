@@ -8,7 +8,7 @@
 - 💬 Ask me about **MERN Stack Web Development** 
 
 - 📫 How to reach me: **sagarwagdare2001@gmail.com**
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1iWigV-63UBkVT7sdDyCp1eluGvOanJfV/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://docs.google.com/document/d/1qzekEJkiCIAqrBWDEmct5k5FXV7xVp82T7dEZMj7uGA/edit?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
