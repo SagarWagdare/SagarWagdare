@@ -1,11 +1,11 @@
-<img  src="https://www.wingstechsolutions.com/wp-content/uploads/2022/03/full-stack-development.gif" alt="Sagar Wagdare" width="100%" height="auto"/>
+
 <div style="background-color: #f5f5f5; padding: 20px;">
 <h1 align="center" style="color: #333;">Hello I am Sagar Wagdare</h1>
 <h3 align="center" style="color: #555;">A passionate Software Development Engineer (SDE) from India</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sagarwagdare&label=Profile%20views&color=213a87&bgColor=#111111&style=flat" alt="sagarwagdare" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sagarwagdare" alt="sagarwagdare" /></a> </p>
-
+<img  src="https://www.wingstechsolutions.com/wp-content/uploads/2022/03/full-stack-development.gif" alt="Sagar Wagdare" width="100%" height="auto"/>
 - 💬 Ask me about **MERN Stack Web Development** 
 
 - 📫 How to reach me: **sagarwagdare2001@gmail.com**
