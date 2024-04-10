@@ -1,3 +1,4 @@
+<img  src="https://www.wingstechsolutions.com/wp-content/uploads/2022/03/full-stack-development.gif" alt="Sagar Wagdare" width="100%" height="auto"/>
 <div style="background-color: #f5f5f5; padding: 20px;">
 <h1 align="center" style="color: #333;">Hello I am Sagar Wagdare</h1>
 <h3 align="center" style="color: #555;">A passionate Software Development Engineer (SDE) from India</h3>
