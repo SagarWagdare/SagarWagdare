@@ -12,11 +12,6 @@
 - 📫 How to reach me: **sagarwagdare2001@gmail.com**
 - 📄 Know about my experiences [Resume](https://docs.google.com/document/d/1qzekEJkiCIAqrBWDEmct5k5FXV7xVp82T7dEZMj7uGA/edit?usp=sharing)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/sagarwagdare/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/sagarwagdare/" height="30" width="40" /></a>
-<a href="https://www.instagram.com/whois_sagar._/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/whois_sagar._/" height="30" width="40" /></a>
-</p>
  <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sagarwagdare" alt="sagarwagdare" /></a> </p>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sagarwagdare&show_icons=true&locale=en&layout=compact" alt="sagarwagdare" /></p>
 
@@ -24,3 +19,9 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sagarwagdare&" alt="sagarwagdare" /></p>
 </div>
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://www.linkedin.com/in/sagarwagdare/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/sagarwagdare/" height="30" width="40" /></a>
+<a href="https://www.instagram.com/whois_sagar._/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/whois_sagar._/" height="30" width="40" /></a>
+</p>
