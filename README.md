@@ -1,6 +1,6 @@
 
 <div style="background-color: #f5f5f5; padding: 20px;">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sagarwagdare&label=Profile%20views&color=1C54FF&bgColor=#111111&style=flat" alt="sagarwagdare" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sagarwagdare&label=Profile%20views&color=F40B0C&bgColor=#FFFFFF&style=flat" alt="sagarwagdare" /> </p>
 <!-- <img  src="https://www.wingstechsolutions.com/wp-content/uploads/2022/03/full-stack-development.gif" alt="Sagar Wagdare" width="100%" height="auto"/> -->
   
   <p align="center"> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Beaming%20Face%20with%20Smiling%20Eyes.png" alt="Slightly Smiling Face" width="10%" height="10%" /> </p>
