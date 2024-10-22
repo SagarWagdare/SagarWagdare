@@ -6,7 +6,7 @@
 
 <!-- Adding a full-width GIF banner -->
 <p align="center">
-  <img src="https://media.giphy.com/media/rJsMvyk7AHHiW9qKLM/giphy.gif?cid=ecf05e476me82b71idvm7gggvcs4b5w0tuoqfaw3oogzmxxu&ep=v1_gifs_search&rid=giphy.gif&ct=g" alt="GIF Banner" width="50%" height="40%"/>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZnJvZGtqbjMxOXhyMDdhbGNtd3BoaGZqdm5qdG1tMTBjeHpxemN2diZlcD12MV9naWZzX3NlYXJjaCZjdD1n/bGgsc5mWoryfgKBx1u/giphy.gif" alt="GIF Banner" width="50%" height="30%"/>
 </p>
 
 <div style="background-color: #f5f5f5; padding: 20px;">
@@ -57,5 +57,5 @@
 
 <!-- Adding a GIF at the bottom for a nice finishing touch -->
 <p align="center">
-  <img src="https://media.giphy.com/media/7J4P7cUur2DlErijp3/giphy.gif?cid=ecf05e47q0cdns655vwlpw4uo7sgxbu3toow7e1vk0rv6z3r&ep=v1_gifs_search&rid=giphy.gif&ct=g" alt="Footer GIF" width="100%" />
+  <img src="https://media.giphy.com/media/7J4P7cUur2DlErijp3/giphy.gif?cid=ecf05e47q0cdns655vwlpw4uo7sgxbu3toow7e1vk0rv6z3r&ep=v1_gifs_search&rid=giphy.gif&ct=g" alt="Footer GIF" width="100%" height="50%" />
 </p>
