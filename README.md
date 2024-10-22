@@ -5,12 +5,14 @@
   
   <p align="center"> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Beaming%20Face%20with%20Smiling%20Eyes.png" alt="Slightly Smiling Face" width="10%" height="10%" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sagarwagdare" alt="sagarwagdare" /></a> </p>
 
-- 💬 Ask me about **MERN Stack Web Development** 
+
+- 💬 Ask me about **React Js Web Development** 
 
 - 📫 How to reach me: **sagarwagdare2001@gmail.com**
 - 📄 Know about my experiences [Resume](https://docs.google.com/document/d/1qzekEJkiCIAqrBWDEmct5k5FXV7xVp82T7dEZMj7uGA/edit?usp=sharing)
+
+- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sagarwagdare" alt="sagarwagdare" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
