@@ -4,11 +4,6 @@
   <img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="40px" />
 </h1>
 
-<!-- Adding a full-width GIF banner -->
-<p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZnJvZGtqbjMxOXhyMDdhbGNtd3BoaGZqdm5qdG1tMTBjeHpxemN2diZlcD12MV9naWZzX3NlYXJjaCZjdD1n/bGgsc5mWoryfgKBx1u/giphy.gif" alt="GIF Banner" width="100%" height="30%"/>
-</p>
-
 <div style="background-color: #f5f5f5; padding: 20px;">
   <p align="left">
     <img src="https://komarev.com/ghpvc/?username=sagarwagdare&label=Profile%20views&color=F40B0C&bgColor=#FFFFFF&style=flat" alt="Profile Views" />
