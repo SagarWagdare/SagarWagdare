@@ -11,18 +11,35 @@
 - 📫 **Reach me via email**: [![Gmail](https://img.shields.io/badge/-sagarwagdare2001@gmail.com-D14836?style=flat-square&logo=Gmail&logoColor=white)](mailto:sagarwagdare2001@gmail.com)  
 - 📄 **Check out my experiences**: [![Resume](https://img.shields.io/badge/-View%20My%20Resume-0A66C2?style=flat-square&logo=google-drive&logoColor=white)](https://docs.google.com/document/d/1qzekEJkiCIAqrBWDEmct5k5FXV7xVp82T7dEZMj7uGA/edit?usp=sharing)
 
-
-
- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sagarwagdare" alt="sagarwagdare" /></a> </p>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sagarwagdare&show_icons=true&locale=en&layout=compact" alt="sagarwagdare" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sagarwagdare&show_icons=true&locale=en" alt="sagarwagdare" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sagarwagdare&" alt="sagarwagdare" /></p>
-</div>
-
-<h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/sagarwagdare/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/sagarwagdare/" height="30" width="40" /></a>
-<a href="https://www.instagram.com/whois_sagar._/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/whois_sagar._/" height="30" width="40" /></a>
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=sagarwagdare" alt="Sagar Wagdare's GitHub Trophies" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sagarwagdare&show_icons=true&locale=en&layout=compact" alt="Sagar Wagdare's Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sagarwagdare&show_icons=true&locale=en" alt="Sagar Wagdare's GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sagarwagdare" alt="Sagar Wagdare's GitHub Streak" />
+</p>
+
+---
+
+### Connect with me:
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/sagarwagdare/" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn: Sagar Wagdare" height="30" width="40" />
+  </a>
+  <a href="https://www.instagram.com/whois_sagar._/" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram: @whois_sagar._" height="30" width="40" />
+  </a>
+</p>
+thub-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/whois_sagar._/" height="30" width="40" /></a>
 </p>
