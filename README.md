@@ -2,7 +2,7 @@
 <div style="background-color: #f5f5f5; padding: 20px;">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sagarwagdare&label=Profile%20views&color=F40B0C&bgColor=#FFFFFF&style=flat" alt="sagarwagdare" /> </p>
 <!-- <img  src="https://www.wingstechsolutions.com/wp-content/uploads/2022/03/full-stack-development.gif" alt="Sagar Wagdare" width="100%" height="auto"/> -->
-  
+   <img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="50px" />
   <p align="center"> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Beaming%20Face%20with%20Smiling%20Eyes.png" alt="Slightly Smiling Face" width="10%" height="10%" /> </p>
 
 
