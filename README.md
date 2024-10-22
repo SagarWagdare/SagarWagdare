@@ -57,5 +57,5 @@
 
 <!-- Adding a GIF at the bottom for a nice finishing touch -->
 <p align="center">
-  <img src="https://media.giphy.com/media/3o7aD3jCOWpA5B6ZLy/giphy.gif" alt="Footer GIF" width="100%" />
+  <img src="https://media.giphy.com/media/7J4P7cUur2DlErijp3/giphy.gif?cid=ecf05e47q0cdns655vwlpw4uo7sgxbu3toow7e1vk0rv6z3r&ep=v1_gifs_search&rid=giphy.gif&ct=g" alt="Footer GIF" width="100%" />
 </p>
