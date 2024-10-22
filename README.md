@@ -52,5 +52,5 @@
 
 <!-- Adding a GIF at the bottom for a nice finishing touch -->
 <p align="center">
-  <img src="https://media.giphy.com/media/7J4P7cUur2DlErijp3/giphy.gif?cid=ecf05e47q0cdns655vwlpw4uo7sgxbu3toow7e1vk0rv6z3r&ep=v1_gifs_search&rid=giphy.gif&ct=g" alt="Footer GIF" width="100%" height="50%" />
+  <img src="https://media.giphy.com/media/Y4ak9Ki2GZCbJxAnJD/giphy.gif?cid=790b7611r8mz33hwtmnz5i3wfup7avqxhnayunqknwmd5jlo&ep=v1_gifs_search&rid=giphy.gif&ct=g" alt="Footer GIF" width="100%" height="50%" />
 </p>
