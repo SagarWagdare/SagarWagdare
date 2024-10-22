@@ -18,7 +18,7 @@
 <a href="https://www.instagram.com/whois_sagar._/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/whois_sagar._/" height="30" width="40" /></a>
 </p>
  <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sagarwagdare" alt="sagarwagdare" /></a> </p>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sagarwagdare&show_icons=true&locale=en&layout=compact" alt="sagarwagdare" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sagarwagdare&show_icons=true&locale=en&layout=compact" alt="sagarwagdare" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sagarwagdare&show_icons=true&locale=en" alt="sagarwagdare" /></p>
 
