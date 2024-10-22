@@ -6,7 +6,7 @@
 
 <!-- Adding a full-width GIF banner -->
 <p align="center">
-  <img src="https://media.giphy.com/media/rJsMvyk7AHHiW9qKLM/giphy.gif?cid=ecf05e476me82b71idvm7gggvcs4b5w0tuoqfaw3oogzmxxu&ep=v1_gifs_search&rid=giphy.gif&ct=g" alt="GIF Banner" width="100%" />
+  <img src="https://media.giphy.com/media/rJsMvyk7AHHiW9qKLM/giphy.gif?cid=ecf05e476me82b71idvm7gggvcs4b5w0tuoqfaw3oogzmxxu&ep=v1_gifs_search&rid=giphy.gif&ct=g" alt="GIF Banner" width="50%" />
 </p>
 
 <div style="background-color: #f5f5f5; padding: 20px;">
