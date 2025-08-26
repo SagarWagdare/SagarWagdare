@@ -9,11 +9,6 @@
     <img src="https://komarev.com/ghpvc/?username=sagarwagdare&label=Profile%20views&color=F40B0C&bgColor=#FFFFFF&style=flat" alt="Profile Views" />
   </p>
 
-  <!-- Emoji for user interaction -->
-  <p align="center">
-    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Beaming%20Face%20with%20Smiling%20Eyes.png" alt="Beaming Face" width="10%" height="10%" />
-  </p>
-
   - 💬 **Ask me about**: React JS & Web Development  
   - 📫 **Reach me via email**: [![Gmail](https://img.shields.io/badge/-sagarwagdare2001@gmail.com-D14836?style=flat-square&logo=Gmail&logoColor=white)](mailto:sagarwagdare2001@gmail.com)  
 
