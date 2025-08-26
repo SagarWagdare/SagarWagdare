@@ -16,8 +16,7 @@
 
   - 💬 **Ask me about**: React JS & Web Development  
   - 📫 **Reach me via email**: [![Gmail](https://img.shields.io/badge/-sagarwagdare2001@gmail.com-D14836?style=flat-square&logo=Gmail&logoColor=white)](mailto:sagarwagdare2001@gmail.com)  
-  - 📄 **Check out my experiences**: [![Resume](https://img.shields.io/badge/-View%20My%20Resume-0A66C2?style=flat-square&logo=google-drive&logoColor=white)](https://docs.google.com/document/d/1qzekEJkiCIAqrBWDEmct5k5FXV7xVp82T7dEZMj7uGA/edit?usp=sharing)
-</div>
+
 
 <p align="left">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
