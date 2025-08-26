@@ -39,9 +39,6 @@
   <a href="https://www.linkedin.com/in/sagarwagdare/" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn: Sagar Wagdare" height="30" width="40" />
   </a>
-  <a href="https://www.instagram.com/whois_sagar._/" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram: @whois_sagar._" height="30" width="40" />
-  </a>
 </p>
 
 <!-- Adding a GIF at the bottom for a nice finishing touch -->
